@@ -1,0 +1,1 @@
+I would like to note that my codes are originial as they can be, but I was motivated to work on this problem by following the book "Python for Finance'. Example 1.2 Monte	Carlo	estimator	for	European	option was the original problem which is associated with this program.
